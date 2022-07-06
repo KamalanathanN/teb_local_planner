@@ -53,4 +53,5 @@ Install dependencies (listed in the *package.xml* and *CMakeLists.txt* file) usi
 
     rosdep install teb_local_planner
 
-
+## Fix from 
+https://github.com/rst-tu-dortmund/teb_local_planner/pull/290
